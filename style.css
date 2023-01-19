@@ -12,7 +12,7 @@ body {
 /* Colors */
 header, .intro, footer {
     background: linear-gradient(180deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)) no-repeat fixed, 
-                url(images/summer2020.jpeg) no-repeat center center center;
+                url(images/summer2020.jpeg) no-repeat center center fixed;
     background-size: cover; 
     color: #f9faf8;
     text-shadow:0px 0px 5px black,
